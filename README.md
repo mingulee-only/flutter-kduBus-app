@@ -39,9 +39,7 @@ QR코드를 이용하여 그 날 그 날 버스 탑승인원을 체크하여,
 1. 로그인
 
 
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B81.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B82.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B83.png" width=30%>
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B81.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B82.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B83.png" width=30%>
 
 
 
@@ -49,24 +47,20 @@ QR코드를 이용하여 그 날 그 날 버스 탑승인원을 체크하여,
 2. 학생 탭
 
 
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EB%B2%88%20%EC%9D%B4%EB%A6%84%20%EC%9E%85%EB%A0%A5.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D1.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D2.png" width=30%>
-<img src="
-https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D3.png" width=30%>
-<img src="
-https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D4.png" width=30%>
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EB%B2%88%20%EC%9D%B4%EB%A6%84%20%EC%9E%85%EB%A0%A5.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D1.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D2.png" width=30%>
+
+
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D3.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D4.png" width=30%>
 
 
 
 
 3. 관리자 탭
 
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%901.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%902.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%903.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%904.png" width=30%>
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%905.png" width=30%>
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%901.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%902.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%903.png" width=30%>
+
+
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%904.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%905.png" width=30%>
 
 
 
