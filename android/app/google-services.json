@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "949857536807",
+    "firebase_url": "https://bustest-4617a.firebaseio.com",
+    "project_id": "bustest-4617a",
+    "storage_bucket": "bustest-4617a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949857536807:android:d67ff3b0084ca46a8c3702",
+        "android_client_info": {
+          "package_name": "com.example.flutter_loginemailex1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949857536807-uo77lmj7qq7tkjn830j2btca7lqlgqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxehssL2SlQgSx_tGZuuNj0kZS2xVYY_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949857536807-uo77lmj7qq7tkjn830j2btca7lqlgqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949857536807:android:c7a1089a2e1d64708c3702",
+        "android_client_info": {
+          "package_name": "com.example.flutter_loginself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949857536807-uo77lmj7qq7tkjn830j2btca7lqlgqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxehssL2SlQgSx_tGZuuNj0kZS2xVYY_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949857536807-uo77lmj7qq7tkjn830j2btca7lqlgqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949857536807:android:94e8fc61db7d80308c3702",
+        "android_client_info": {
+          "package_name": "net.touchcapture.qr.flutterqrexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949857536807-uo77lmj7qq7tkjn830j2btca7lqlgqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxehssL2SlQgSx_tGZuuNj0kZS2xVYY_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949857536807-uo77lmj7qq7tkjn830j2btca7lqlgqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
